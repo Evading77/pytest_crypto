@@ -1,0 +1,21 @@
+[ {
+  "uid" : "fadbdcfd5350dd5f",
+  "name" : "test_crypt",
+  "time" : {
+    "start" : 1646641076451,
+    "stop" : 1646641185054,
+    "duration" : 108603
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c1f0450a2a15ae21",
+  "name" : "test_get_humidity[caseinfo0]",
+  "time" : {
+    "start" : 1646641062736,
+    "stop" : 1646641063114,
+    "duration" : 378
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
